@@ -9,4 +9,4 @@
 
 ### Stats
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=TacoMarco&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tacomarco&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tacomarco&layout=compact&text_color=daf7dc&bg_color=151515)
